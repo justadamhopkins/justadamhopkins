@@ -29,6 +29,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgres)
+
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 
