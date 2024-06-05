@@ -31,7 +31,7 @@
 
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgressql)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)
