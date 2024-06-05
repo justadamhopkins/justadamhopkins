@@ -29,8 +29,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
-![Datadog](https://img.shields.io/badge/datadog-05122A?style=flat&logo=datadog&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+![Datadog](https://img.shields.io/badge/datadog-05122A?style=flat&logo=datadog)
+![Cypress](https://img.shields.io/badge/-cypress-05122A?style=flat&logo=cypress)
 
 ### 🤓 I dabble in
 ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
