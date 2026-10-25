@@ -2,16 +2,14 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=220&section=header&text=Hey,%20I'm%20Adam%20👋&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20·%20London,%20UK&descSize=18&descAlignY=58&animation=fadeIn" alt="Hey, I'm Adam" />
 </p>
-
 <p align="center">
   <a href="https://github.com/justadamhopkins">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=560&lines=Senior+Full+Stack+Developer;Raddest+dad+of+two+%F0%9F%A6%B8;Powered+by+electronic+music+%F0%9F%8E%A7;Living+for+UK+festival+season+%F0%9F%8E%AA;Shipping+with+TypeScript+%2B+Claude+Code" alt="Typing intro" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/adamhopkins1989/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adamhopkins87@gmail.com"><img src="https://img.shields.io/badge/Say_hello-F72585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.adamhopkins.dev"><img src="https://img.shields.io/badge/👋_Say_hello-F72585?style=for-the-badge" alt="Say hello at adamhopkins.dev" /></a>
   <img src="https://komarev.com/ghpvc/?username=justadamhopkins&label=Profile%20views&color=7209B7&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -27,7 +25,6 @@ const adam = {
   dadRating: "raddest",           // self-assessed, peer-reviewed by no one
   fuel: ["electronic music 🎧", "films 🎬"],
   favouriteSeason: "UK festival season 🎪",
-  pairProgrammer: "Claude Code 🤖",
 };
 ```
 
