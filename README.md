@@ -71,7 +71,7 @@ const adam = {
 </p>
 ---
 
-<p align="center"><i>Probably refactoring something, planning the next festival, or losing a debate with a toddler. 🎪🎧</i></p>
+<p align="center"><i>Probably refactoring something, planning the next festival, or losing a debate with a child 🎪🎧</i></p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:7209B7,100:F72585&height=120&section=footer" alt="" />
