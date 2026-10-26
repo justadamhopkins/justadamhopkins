@@ -54,6 +54,7 @@ const adam = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=justadamhopkins&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
+
 ---
 
 <p align="center"><i>Probably refactoring something, planning the next festival, or losing a debate with a child 🎪🎧</i></p>
