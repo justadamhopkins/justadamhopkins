@@ -28,18 +28,6 @@ const adam = {
 };
 ```
 
----
-
-### 🎧 &nbsp;Currently Listening
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jjuo8wfwgvr70eabxe3ejjz35&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Now playing on Spotify" />
-  </a>
-</p>
-
----
-
 ### 🛠 &nbsp;Tech Stack
 
 | | |
